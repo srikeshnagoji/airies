@@ -9,7 +9,7 @@ export function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Semantic Search",
+    title: "Hybrid Semantic Search",
     description:
       "Intelligent, Context-Aware Searches. Quickly find relevant information across all your documents. Benefit from AI that understands context, not just keywords.",
     link: "https://stripe.com",
