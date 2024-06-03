@@ -12,25 +12,25 @@ export const projects = [
     title: "Hybrid Semantic Search",
     description:
       "Intelligent, Context-Aware Searches. Quickly find relevant information across all your documents. Benefit from AI that understands context, not just keywords.",
-    link: "https://stripe.com",
+    link: "/",
   },
   {
     title: "Document Chat",
     description:
       "Interactive Document Assistance. Ask questions directly to your documents and get precise answers. Engage with your data as if you had a subject matter expert on hand.",
-    link: "https://netflix.com",
+    link: "/",
   },
   {
     title: "Document Digitization",
     description:
       "Seamless Transition to Digital. Convert physical documents into digital formats effortlessly. Use OCR technology to make scanned documents searchable and editable.",
-    link: "https://google.com",
+    link: "/",
   },
   {
     title: "Document Manager",
     description:
       "Efficient Organization and Retrieval. Automatically categorize and tag documents for easy access. Keep your team's knowledge base organized and up-to-date.",
-    link: "https://meta.com",
+    link: "/",
   },
 //   {
 //     title: "Amazon",
