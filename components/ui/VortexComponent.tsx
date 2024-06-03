@@ -1,7 +1,7 @@
 import React from "react";
-import { Vortex } from "./vortex";
+import { Vortex } from "./config/vortex";
 
-export function VortexDemo() {
+export function VortexComponent() {
   return (
     // <div className="w-[calc(100%-4rem)] mx-auto rounded-md  h-[30rem] overflow-hidden">
     <div className="w-[calc(100%)] mx-auto rounded-md  h-[30rem] overflow-hidden inset-x-0 bottom-0 p-0">

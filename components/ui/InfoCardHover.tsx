@@ -1,6 +1,6 @@
-import { HoverEffect } from "./card-hover-effect";
+import { HoverEffect } from "./config/card-hover-effect";
 
-export function CardHoverEffectDemo() {
+export function InfoCardHover() {
   return (
     <div className="max-w-6xl mx-auto px-8 py-0">
       <HoverEffect items={projects} />
